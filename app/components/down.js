@@ -7,8 +7,8 @@ const Down = () => {
     const ref=useRef();
     const data = [
         {
-            title: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-            size: '0.9mb',
+            title: 'Enter The Data.',
+            size: '0.5mb',
             close: false,
             tag: {
                 isOpen: true,
@@ -17,7 +17,7 @@ const Down = () => {
             }
         },
         {
-            title: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
+            title: 'Enter The Data.',
             size: '0.9mb',
             close: false,
             tag: {
@@ -27,8 +27,8 @@ const Down = () => {
             }
         },
         {
-            title: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-            size: '0.9mb',
+            title: 'Enter The Data.',
+            size: '0.7mb',
             close: false,
             tag: {
                 isOpen: true,
@@ -37,20 +37,20 @@ const Down = () => {
             }
         },
         {
-            title: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-            size: '0.9mb',
+            title: 'Enter The Data.',
+            size: '0.4mb',
             close: false,
             tag: {
                 isOpen: true,
                 tagTitle: 'Download',
-                tagColor: 'bg-green-400'
+                tagColor: 'bg-blue-400'
             }
         },{
-            title: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
+            title: 'Enter The Data.',
             size: '0.9mb',
             close: false,
             tag: {
-                isOpen: true,
+                isOpen: false,
                 tagTitle: 'Download',
                 tagColor: 'bg-green-400'
             }
