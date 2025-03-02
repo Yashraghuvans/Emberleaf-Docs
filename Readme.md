@@ -1,3 +1,5 @@
+<img src="https://github.com/Yashraghuvans/Emberleaf-Docs/blob/main/logo.jpeg" width="800" height="350" alt="My Logo" />
+
 # Emberleaf Docs
 
 **A refined and intuitive document management system, crafted with React, JavaScript, Tailwind CSS, and HTML5.**
