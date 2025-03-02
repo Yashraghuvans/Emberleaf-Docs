@@ -18,26 +18,6 @@ const Down = () => {
         },
         {
             title: 'Enter The Data.',
-            size: '0.9mb',
-            close: false,
-            tag: {
-                isOpen: true,
-                tagTitle: 'Download',
-                tagColor: 'bg-blue-400'
-            }
-        },
-        {
-            title: 'Enter The Data.',
-            size: '0.7mb',
-            close: false,
-            tag: {
-                isOpen: true,
-                tagTitle: 'Download',
-                tagColor: 'bg-green-400'
-            }
-        },
-        {
-            title: 'Enter The Data.',
             size: '0.4mb',
             close: false,
             tag: {
