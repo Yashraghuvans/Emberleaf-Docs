@@ -5,3 +5,18 @@
 ::selection{
     color:rgba(170, 90, 90, 0.892);
 }
+
+@media (min-width: 640px) {
+    .text-sm {
+        font-size: 0.875rem;
+    }
+    .text-xl {
+        font-size: 1.25rem;
+    }
+    .text-2xl {
+        font-size: 1.5rem;
+    }
+    .text-3xl {
+        font-size: 1.875rem;
+    }
+}
